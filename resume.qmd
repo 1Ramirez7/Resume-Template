@@ -1,0 +1,90 @@
+---
+layout: cv
+title: John Doe's CV
+---
+
+**Phone**: (123) 456-7890  
+**Email**: john.doe@example.com  
+**Address**: 123 Main St, Anytown, State 12345  
+[**LinkedIn**](https://www.linkedin.com/in/johndoe-profile/)  
+
+---
+
+## Objective
+
+Results-driven future professional with a Bachelor of Science in Financial Economics and a minor in Data Science, seeking to leverage research, analytical, and leadership skills within the economy. Adept at analyzing complex financial data, optimizing, and developing quantitative models to inform strategic investment decisions.
+
+---
+
+## Experience
+
+### Store Manager  
+**ABC Consulting Services, LLC**  
+*January 2015 - February 2017*  
+- Assisted store owner with employee staffing, scheduling, HR needs, and sales analysis.
+- Developed leadership attributes and problem-solving abilities under pressure.
+- Resolved arising issues quickly, both internally and customer-related.
+- Ensured compliance with store regulations and codes.
+- Analyzed sales and product demand to strategically improve sales.
+
+### Fleet and IT Manager  
+**ABC Consulting Services, LLC**  
+*February 2016 - February 2017*  
+- Implemented and managed POS technology to increase fleet sales and profitability.
+- Managed systems integration to process over $1,000,000 per month in credit sales.
+- Upgraded store transactions from manual to digital systems.
+- Created processes to prevent financial loopholes and losses.
+
+### Analytic Research  
+**XYZ Investments, LLC**  
+*March 2023 - Present*  
+- Utilized data analytics to assess equipment sales, expenses, and profitability.
+- Provided research insights to influence investment and sales decisions.
+
+### Construction Laborer  
+**Independent Contractor**  
+*January 2010 - October 2017*  
+- Worked part-time, full-time, and seasonally in various construction roles.
+- Assisted with site preparation, machinery operation, and equipment setup.
+- Performed tasks ranging from building structures to demolition.
+
+---
+
+## Education, Skills, Interests, and Volunteer Experience
+
+::: {layout-ncol=2}
+### Education
+**Bachelor of Science in Financial Economics**  
+Minor in Data Science  
+*Sample University*  
+*September 2020 - Current*
+
+### Skills
+- Financial Analysis  
+- Quantitative Analysis  
+- Leadership and Problem-solving  
+- Effective Communication in high-pressure environments  
+- Positive Attitude / Role model  
+- Languages: Fluent in English, Spanish, and Portuguese  
+- Technical Skills: Python, SQL, R, Stata, HTML, CSS  
+:::
+
+::: {layout-ncol=2}
+### Interests
+- Helping others achieve their goals  
+- Connecting world events with economic theories  
+- Growing a personal investment portfolio  
+- Maintaining a healthy lifestyle  
+- Volunteering and community service  
+- Swimming, running, and martial arts  
+
+### Volunteer Experience
+- President, Vice President, Bloomberg Specialist, Secretary for Investment Society - *Fall 2022 - Current*  
+- Full-time Missionary, Global Outreach Organization - *Dec 2017 - Jan 2020*  
+- Held various local positions as Secretary, Teacher, and President in a community organization  
+- Volunteer at local homeless shelter - *2020 - 2022*  
+:::
+
+---
+
+_Last updated: March 2024_
