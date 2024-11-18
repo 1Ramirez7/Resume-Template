@@ -194,5 +194,68 @@
     "title": "John Doe’s CV",
     "section": "Education, Skills, Interests, and Volunteer Experience",
     "text": "Education, Skills, Interests, and Volunteer Experience\n\n\n\n\n\n\nEducation\nBachelor of Science in Financial Economics\nMinor in Data Science\nSample University\nSeptember 2020 - Current\n\n\nSkills\n\nFinancial Analysis\n\nQuantitative Analysis\n\nLeadership and Problem-solving\n\nEffective Communication in high-pressure environments\n\nPositive Attitude / Role model\n\nLanguages: Fluent in English, Spanish, and Portuguese\n\nTechnical Skills: Python, SQL, R, Stata, HTML, CSS\n\n\n\n\n\n\n\n\n\n\n\nInterests\n\nHelping others achieve their goals\n\nConnecting world events with economic theories\n\nGrowing a personal investment portfolio\n\nMaintaining a healthy lifestyle\n\nVolunteering and community service\n\nSwimming, running, and martial arts\n\n\n\nVolunteer Experience\n\nPresident, Vice President, Bloomberg Specialist, Secretary for Investment Society - Fall 2022 - Current\n\nFull-time Missionary, Global Outreach Organization - Dec 2017 - Jan 2020\n\nHeld various local positions as Secretary, Teacher, and President in a community organization\n\nVolunteer at local homeless shelter - 2020 - 2022\n\n\n\n\n\n\nLast updated: March 2024"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "Hello! I’m John Doe, a data science enthusiast with a passion for transforming raw data into actionable insights. Below, you’ll find an overview of various sections of my portfolio. Click on any of the links to explore the content in detail."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "🔍 Projects",
+    "text": "🔍 Projects\nExplore a collection of my key projects showcasing hands-on experience with real-world data science problems. Each project covers different areas of data science, including data wrangling, visualization, and machine learning models."
+  },
+  {
+    "objectID": "index.html#my-resume",
+    "href": "index.html#my-resume",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "📄 My Resume",
+    "text": "📄 My Resume\nView my professional background, including work experience, skills, certifications, and academic achievements in data science and analytics."
+  },
+  {
+    "objectID": "index.html#data-cleansing",
+    "href": "index.html#data-cleansing",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "🧹 Data Cleansing",
+    "text": "🧹 Data Cleansing\nData cleaning is the foundation of any data science project. In this section, I demonstrate techniques for handling missing data, correcting inconsistencies, and preparing datasets for analysis."
+  },
+  {
+    "objectID": "index.html#data-exploration",
+    "href": "index.html#data-exploration",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "🔍 Data Exploration",
+    "text": "🔍 Data Exploration\nDive into the exploratory data analysis (EDA) process, where I uncover hidden patterns, correlations, and insights within datasets. This section focuses on data visualization and statistical summaries."
+  },
+  {
+    "objectID": "index.html#story-telling",
+    "href": "index.html#story-telling",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "📚 Story Telling",
+    "text": "📚 Story Telling\nData storytelling combines insights with compelling narratives. Here, I showcase examples of using visualizations and narratives to effectively communicate insights to stakeholders."
+  },
+  {
+    "objectID": "index.html#machine-learning",
+    "href": "index.html#machine-learning",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "🤖 Machine Learning",
+    "text": "🤖 Machine Learning\nThis section includes projects where I’ve applied machine learning algorithms to solve real-world problems, from classification and regression to clustering and predictive modeling."
+  },
+  {
+    "objectID": "index.html#full-stack",
+    "href": "index.html#full-stack",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "🌐 Full Stack",
+    "text": "🌐 Full Stack\nLearn about my experience with full-stack data science projects, including deploying machine learning models to web applications and integrating various technologies to deliver end-to-end solutions."
+  },
+  {
+    "objectID": "index.html#competition",
+    "href": "index.html#competition",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "🏆 Competition",
+    "text": "🏆 Competition\nCheck out my participation in data science competitions. Here, I present my approaches, solutions, and lessons learned from various data science challenges and hackathons."
   }
 ]

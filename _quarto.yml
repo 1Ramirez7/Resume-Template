@@ -6,15 +6,16 @@ website:
   title: "Your-Name Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://1ramirez7.github.io/Portfolio_
+  repo-url: https://yourgithubusername.github.io/Portfolio_
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Eduardo I Ramirez 2024©"
+    left: "name_here 2024©"
     right: 
       - icon: linkedin
-        href: linkedin.com/in/eduardo-ramirez-lds
+        href: www.linkedin.com/in/eduardo-ramirez-lds # linkedin.com/in/your_linkedin_username_here
+
 
   navbar:
     background: primary

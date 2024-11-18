@@ -1,10 +1,47 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Welcome to My Data Science Portfolio"
+subtitle: ""
 ---
 
-# Title 1 Header
-## Title 2 Header
+Hello! I'm John Doe, a data science enthusiast with a passion for transforming raw data into actionable insights. Below, you'll find an overview of various sections of my portfolio. Click on any of the links to explore the content in detail.
 
+---
+
+## 🔍 [Projects](projects.qmd)
+Explore a collection of my key projects showcasing hands-on experience with real-world data science problems. Each project covers different areas of data science, including data wrangling, visualization, and machine learning models. 
+
+---
+
+## 📄 [My Resume](resume.qmd)
+View my professional background, including work experience, skills, certifications, and academic achievements in data science and analytics. 
+
+---
+
+## 🧹 [Data Cleansing](cleansing.qmd)
+Data cleaning is the foundation of any data science project. In this section, I demonstrate techniques for handling missing data, correcting inconsistencies, and preparing datasets for analysis.
+
+---
+
+## 🔍 [Data Exploration](exploration.qmd)
+Dive into the exploratory data analysis (EDA) process, where I uncover hidden patterns, correlations, and insights within datasets. This section focuses on data visualization and statistical summaries.
+
+---
+
+## 📚 [Story Telling](story_telling.qmd)
+Data storytelling combines insights with compelling narratives. Here, I showcase examples of using visualizations and narratives to effectively communicate insights to stakeholders.
+
+---
+
+## 🤖 [Machine Learning](ml.qmd)
+This section includes projects where I've applied machine learning algorithms to solve real-world problems, from classification and regression to clustering and predictive modeling.
+
+---
+
+## 🌐 [Full Stack](full_stack.qmd)
+Learn about my experience with full-stack data science projects, including deploying machine learning models to web applications and integrating various technologies to deliver end-to-end solutions.
+
+---
+
+## 🏆 [Competition](competition.qmd)
+Check out my participation in data science competitions. Here, I present my approaches, solutions, and lessons learned from various data science challenges and hackathons.
 
